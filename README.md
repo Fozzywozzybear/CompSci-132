@@ -1,2 +1,2 @@
 # CompSci-132
-PSU cmpsc 132 code
+Code for PSU Comp sci 132 class
